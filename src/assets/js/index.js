@@ -192,7 +192,7 @@ window.addEventListener('scroll', handleScroll);
 
 const buyButton = document.querySelectorAll('.buy-button')
 const modal = document.querySelector('.modal')
-const modalTitle = document.querySelector('.modal-version')
+const modalTitle = document.querySelector('.modal-version ')
 const modalPrice = document.querySelector('.modal-total__price')
 const modalClose = document.querySelector('.modal-close')
 const overlay = document.querySelector('.overlay')
